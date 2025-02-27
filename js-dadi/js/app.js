@@ -9,7 +9,7 @@
 // // Determinazione del vincitore 
 // if (userThrow > pcThrow) console.log("Vince l'utente!");
 // else if (pcThrow > userThrow) console.log("Vince il computer!");
-// else if (pcThrow = userThrow) console.log("Paritá!");
+// else console.log("Paritá!");
 
 
 // BONUS
@@ -31,5 +31,5 @@ else {
   // Determinazione del vincitore 
   if (userThrow > pcThrow) console.log("Vince l'utente!");
   else if (pcThrow > userThrow) console.log("Vince il computer!");
-  else if (pcThrow = userThrow) console.log("Paritá!");
+  else console.log("Paritá!");
 }
